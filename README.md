@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Ravy. 
 ### Seja bem vindo(a) ao meu perfil! ❤️
 
-<div background-color="#0D1117">
+<div style="background-color: #0D1117;">
   <div>
     <a href="https://github.com/RavyBomfim">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=RavyBomfim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
