@@ -1,6 +1,6 @@
-## Oi! Eu sou a Ravy. 
-### Seja bem vindo(a) ao meu perfil! ❤️
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ravy;I+from+Brasil,;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## Hello! I'm Ravy. 
+### Welcome to my github profile! ❤️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=024959&size=35&center=true&vCenter=true&width=1000&lines=Oi,+sou+a+Ravy;Seja+bem+vindo(a)+ao+meu+perfil+do+Github!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
