@@ -1,5 +1,5 @@
 ## Hello! I'm Ravy. 
-### Welcome to my github profile! ❤️
+### Welcome to my Github profile! ❤️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F5959&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Eu+sou+a+Ravy.;Seja+bem+vindo(a)+ao+meu+perfil+do+Github!+❤️)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
