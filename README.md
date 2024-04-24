@@ -3,7 +3,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img height="195em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="195em" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
