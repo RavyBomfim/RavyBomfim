@@ -2,7 +2,7 @@
 ### Welcome to my Github profile! ❤️
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img height="195em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
