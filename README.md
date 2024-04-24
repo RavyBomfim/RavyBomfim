@@ -1,6 +1,6 @@
 ## Hello! I'm Ravy. 
-### Welcome to my Github profile! ❤️ <a href = "mailto:ravieli.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### Welcome to my Github profile! ❤️ &nbsp; &nbsp; &nbsp; <a href = "mailto:ravieli.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
 ##
 
 <div style="display: inline_block"><br>
