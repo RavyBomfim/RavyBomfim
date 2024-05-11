@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ravy-Django" height="30" width="40" src="(https://github.com/RavyBomfim/RavyBomfim/assets/87732549/13303322-6f6a-4a7e-bd50-ebaf243225b9.png)">
+  <img align="center" alt="Ravy-Django" height="30" width="40" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/13303322-6f6a-4a7e-bd50-ebaf243225b9.png">
   <img align="center" alt="Ravy-Php" height="30" width="40" src="https://logodix.com/logo/1625715.png">
   <img align="center" alt="Ravy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ravy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
