@@ -25,7 +25,7 @@
       <a href = "mailto:ravieli.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
       <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=02326F" target="_blank"></a> 
   </span>
-</div> <br>
+</div> 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/> &nbsp;
