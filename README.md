@@ -5,9 +5,9 @@
    
 ##
 
-<div style="width: 500px; display: flex; background-color: #ffffff;">
+
   <img height="195em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
