@@ -5,7 +5,7 @@
    
 ##
 
-<div style="display: inline_block">
+<div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
