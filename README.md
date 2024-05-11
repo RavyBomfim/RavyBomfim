@@ -5,7 +5,7 @@
    
 ##
 
-<div display="flex">
+<div width="100%" display="flex">
   <img height="195em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
