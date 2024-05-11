@@ -6,7 +6,7 @@
 ##
 
 
-<img height="195em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
+<img height="195em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 
 
 <div style="display: inline_block"><br>
