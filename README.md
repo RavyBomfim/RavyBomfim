@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/> &nbsp;
   <img width="35%" height="180em" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/4108762e-c5a2-4901-8c4c-b564a000d512.jpg"/>
   &nbsp; 
-</div> <br>
+</div> 
 
 <div align="center"> 
   <picture>
