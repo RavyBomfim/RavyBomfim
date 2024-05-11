@@ -20,3 +20,5 @@
   <img align="center" alt="Ravy-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ravy-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+![Snake animation](https://github.com/RavyBomfim/RavyBomfim/blob/output/github-contribution-grid-snake.svg)
