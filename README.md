@@ -6,7 +6,7 @@
 ##
 
 <div style="display: inline_block">
-  <img height="195em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="195em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
