@@ -1,4 +1,4 @@
-<div width="100%" bgcolor="#ffffff">
+<div width=100% bgcolor="#ffffff">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
