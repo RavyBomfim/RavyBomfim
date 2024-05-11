@@ -5,9 +5,8 @@
 <!-- ## Hello! I'm Ravy. 
 
 ### Welcome to my Github profile! ❤️ -->
-<div align="center" style="color: red;">
-  <span style="color: red;">Linguages and Tools</span>
-<div/>
+
+<!-- <h4 align="center" style="color: red;">Linguages and Tools</h4> -->
 
 <div align="center">
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/> &nbsp;
   <img width="35%" height="180em" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/4108762e-c5a2-4901-8c4c-b564a000d512.jpg"/>
   &nbsp; 
-</div> 
+</div> <br>
 
 <div align="center"> 
   <picture>
@@ -40,9 +39,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
   </picture>
-
-<!-- <div>
-   <img height="180em" padding="40em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=16&theme=dracula"/>
-</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
