@@ -23,7 +23,7 @@
 <div align="center">
   <span>
       <a href = "mailto:ravieli.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-      <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=004EF9" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=044E9D" target="_blank"></a> 
   </span> <!-- Cor anterior da logo do linkein: 02326F -->
   
 </div> <br> 
