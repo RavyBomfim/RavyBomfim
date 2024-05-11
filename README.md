@@ -21,4 +21,4 @@
   <img align="center" alt="Ravy-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-![Snake animation](https://github.com/RavyBomfim/RavyBomfim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RavyBomfim/RavyBomfim/blob/output/github-contribution-grid-snake-dark.svg)
