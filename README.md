@@ -31,7 +31,7 @@
 <div align="center">
   
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&langs_count=8&theme=dracula"> &nbsp; -->
-  <img width="32%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&theme=dracula"> &nbsp;
+  <img width="30%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&theme=dracula"> &nbsp;
   <img width="30%" height="180em" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/4108762e-c5a2-4901-8c4c-b564a000d512.jpg">
   &nbsp; 
 </div> 
