@@ -48,5 +48,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
   </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
 ![Snake animation](https://github.com/RavyBomfim/RavyBomfim/blob/output/github-contribution-grid-snake.svg)
