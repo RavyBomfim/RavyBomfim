@@ -2,16 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=false&width=1000&lines=Hello!++I'm+Ravy+Bomfim.;Welcome+to+my+Github+profile!❤️)](https://git.io/typing-svg)
 
-<!-- ![#f03c15](https://placehold.it/150/555/00ffff?text=hello) -->
-
-<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
-<!-- $\color{green}{test}$ -->
-
 <!-- ## Hello! I'm Ravy. 
 
 ### Welcome to my Github profile! ❤️ -->
-
-<!-- <h4 align="center" style="color: red;">Linguages and Tools</h4> -->
 
 <div align="center">
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -43,10 +36,15 @@
 
 <div align="center"> 
   <picture>
-<!--     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake.svg"> -->
-    <source srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake.svg">
+    <source srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake.svg">
   </picture>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
+
+<!-- ![#f03c15](https://placehold.it/150/555/00ffff?text=hello) -->
+
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
+<!-- $\color{green}{test}$ -->
