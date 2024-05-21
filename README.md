@@ -23,7 +23,6 @@
       <a href = "mailto:ravieli.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=444" target="_blank"></a> 
       <a href="https://www.linkedin.com/in/ravieli-bomfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=045E9D" target="_blank"></a> 
   </span> <!-- Cor anterior da logo do linkein: 02326F -->
-  
 </div> <br> 
 
 <div align="center">
@@ -32,7 +31,7 @@
   <img width="30%" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavyBomfim&layout=compact&theme=dracula"> &nbsp;
   <img width="28%" height="140px" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/4108762e-c5a2-4901-8c4c-b564a000d512.jpg">
   &nbsp; 
-</div> 
+</div>  <br>
 
 <div align="center"> 
   <picture>
