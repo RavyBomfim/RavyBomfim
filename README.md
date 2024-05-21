@@ -2,13 +2,18 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=false&width=1000&lines=Hello!++I'm+Ravy+Bomfim.;Welcome+to+my+Github+profile!❤️)](https://git.io/typing-svg)
 
+<!-- ![#f03c15](https://placehold.it/150/555/00ffff?text=hello) -->
+
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
+<!-- $\color{green}{test}$ -->
+
 <!-- ## Hello! I'm Ravy. 
 
 ### Welcome to my Github profile! ❤️ -->
 
 <!-- <h4 align="center" style="color: red;">Linguages and Tools</h4> -->
 
-<div align="center" bgcolor="#FF5733">
+<div align="center">
   <img align="center" alt="Ravy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ravy-Django" height="30" width="30" src="https://github.com/RavyBomfim/RavyBomfim/assets/87732549/13303322-6f6a-4a7e-bd50-ebaf243225b9.png"> &nbsp;
   <img align="center" alt="Ravy-Php" height="30" width="40" src="https://logodix.com/logo/1625715.png"> &nbsp;
@@ -18,7 +23,7 @@
   <img align="center" alt="Ravy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ravy-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ravy-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-</div> <br>
+</div>
 
 <div align="center">
   <span>
@@ -39,7 +44,7 @@
 <div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RavyBomfim/RavyBomfim/output/github-contribution-grid-snake-dark.svg">
   </picture>
 
